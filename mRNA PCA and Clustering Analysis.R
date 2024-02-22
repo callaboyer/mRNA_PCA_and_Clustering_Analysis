@@ -1,5 +1,5 @@
 # Install Packages
-# install.packages("factoextra", "ggplot2", "cluster", "pheatmap")
+# install.packages("factoextra", "ggplot2", "cluster")
 
 # Load Libraries
 library(factoextra)
